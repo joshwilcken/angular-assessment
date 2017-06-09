@@ -13,6 +13,12 @@
     color: #fff;
 }
 
+.logo {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
 
 .main-cta {
     width: 45%;
